@@ -1,0 +1,102 @@
+#cdek-delivery-selected {
+    width: 100%
+}
+
+#cdek-delivery-selected-content {
+    margin-top: 12px
+}
+
+#cdek-delivery-selected-back {
+    text-decoration: underline !important;
+    margin-right: 18px
+}
+
+.delivery-selected .delivery-flex-col {
+    min-width: 250px
+}
+
+.delivery-selected .delivery-flex-col:not(:last-child) {
+    padding-right: 12px
+}
+
+.delivery-selected-content {
+    margin-bottom: 18px
+}
+
+.delivery-selected-title {
+    font-size: 13px;
+    color: #444;
+    font-weight: bold;
+}
+
+.delivery-selected-value {
+    /*font-size: 16px;*
+    color: #000*/
+}
+
+.delivery-selected-value.font-size-small {
+    font-size: 14px
+}
+
+.delivery-selected-value ul {
+    padding: 0;
+    margin: 0;
+    list-style: none
+}
+
+.delivery-selected-value ul.schedule-intervals {
+    margin: 0
+}
+
+.delivery-selected-value ul.schedule-intervals li {
+    margin: 0
+}
+
+.delivery-selected-value ul.schedule-intervals li span {
+    display: inline-block;
+    min-width: 24px
+}
+
+#cdek-delivery-progress {
+    display: block;
+    text-align: center;
+    width: 0;
+    height: 3px;
+    background: red;
+    transition: width .3s
+}
+
+#cdek-delivery-progress.hide {
+    opacity: 0;
+    transition: opacity 1.3s
+}
+
+#cdek-delivery-map {
+    width: 100%;
+    height: 300px
+}
+
+#cdek-delivery-map.hide {
+    height: 0
+}
+
+.delivery-flex-row {
+    display: flex;
+    flex-wrap: wrap
+}
+
+.delivery-flex-col {
+    flex-basis: 0;
+    flex-grow: 1;
+    max-width: 100%;
+    width: 100%
+}
+
+#payment, table.shop_table {
+    position: relative !important;
+}
+
+.wdpc_delivery_method {
+    width: 100%;
+    display: flex;
+}

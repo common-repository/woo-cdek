@@ -1,0 +1,579 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pickpoint-delivery\n"
+"POT-Creation-Date: 2020-09-22 11:16+0400\n"
+"PO-Revision-Date: 2020-09-22 11:21+0400\n"
+"Last-Translator: \n"
+"Language-Team: Русский\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: esc_html__;__;esc_html_e\n"
+"X-Loco-Version: 2.4.3; wp-5.5.1\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: vendor\n"
+"X-Poedit-SearchPathExcluded-1: assets\n"
+"X-Poedit-SearchPathExcluded-2: libs\n"
+"X-Poedit-SearchPathExcluded-3: admin/assets\n"
+
+#: admin/activation.php:28
+msgid "The plugin requires Woocommerce"
+msgstr "Плагину необходим Woocommerce"
+
+#: admin/activation.php:32
+msgid "WC_Shipping_Method class not found"
+msgstr "Класс WC_Shipping_Method не найден"
+
+#: admin/ajax/check-license.php:29
+msgid "Licensing action not passed or this action is prohibited!"
+msgstr ""
+
+#: admin/ajax/check-license.php:40
+msgid ""
+"License key is empty or license key too long (license key is 32 characters "
+"long)"
+msgstr ""
+
+#: admin/ajax/check-license.php:43
+msgid "Your license has been successfully activated"
+msgstr "Ваша лицензия успешно активирована"
+
+#: admin/ajax/check-license.php:48
+msgid "The license is deactivated"
+msgstr "Лицензия деактивирована"
+
+#: admin/ajax/check-license.php:52
+msgid "The license has been updated"
+msgstr "Лицензия была обновлена"
+
+#: admin/ajax/check-license.php:56
+msgid "Subscription success cancelled"
+msgstr ""
+
+#: admin/pages/class-pages-license.php:95
+msgid "Pickpoint Delivery"
+msgstr "Яндекс Доставка"
+
+#: admin/pages/class-pages-license.php:96
+msgid "License of Pickpoint Delivery Plugin"
+msgstr "Лицензия плагина Яндекс Доставка"
+
+#: admin/pages/class-pages-license.php:229
+#, php-format
+msgid ""
+"<a href=\"%s\" target=\"_blank\" rel=\"noopener\">Lean more</a> about the "
+"premium version and get the license key to activate it now!"
+msgstr ""
+
+#: admin/pages/class-pages-license.php:233
+#, php-format
+msgid ""
+"Can’t find your key? Go to <a href=\"%s\" target=\"_blank\" rel=\"noopener"
+"\">this page</a> and login using the e-mail address associated with your "
+"purchase."
+msgstr ""
+"Не можете найти лицензионный ключ? Перейдите на <a href=\"%s\" target="
+"\"_blank\" rel=\"noopener\">эту страницу</a> и авторизуйтесь с помощью e-"
+"mail, который вы указывали при покупке"
+
+#: admin/pages/class-pages-license.php:246
+#, php-format
+msgid "Activate %s"
+msgstr "Активировать %s"
+
+#: admin/pages/class-pages-license.php:285
+#, php-format
+msgid "Automatic renewal, every %s"
+msgstr ""
+
+#: admin/pages/class-pages-license.php:306
+msgid ""
+"Your license has expired, please extend the license to get updates and "
+"support."
+msgstr ""
+
+#: includes/class-plugin.php:167
+msgid "License"
+msgstr "Лиценизия"
+
+#: includes/class-plugin.php:179 includes/pickpoint/class-yandex.php:124
+#: includes/pickpoint/class-yandex.php:218
+#: includes/pickpoint/class-yandex.php:230
+msgid "Documentation"
+msgstr "Документация"
+
+#: includes/functions.php:14 includes/functions.php:33
+#: includes/pickpoint/class-yandex.php:24
+#: includes/pickpoint/class-yandex.php:25
+#: includes/pickpoint/class-yandex.php:205
+msgid "Pickpoint"
+msgstr "Яндекс.Доставка"
+
+#: includes/functions.php:17
+msgid "The plugin does not work and requires configuration, please go to"
+msgstr "Плагин не работает и требует настройки, пожалуйста перейдите в"
+
+#: includes/functions.php:19
+msgid "plugin settings"
+msgstr "настройки плагина"
+
+#: includes/functions.php:34
+msgid "<strong>ATTENTION!</strong> The plugin works in developer mode"
+msgstr "<strong>ВНИМАНИЕ!</strong> Плагин работает в режиме разработчика"
+
+#: includes/pickpoint/class-checkout-ajax.php:21
+#: includes/pickpoint/class-checkout-ajax.php:47
+#: includes/pickpoint/class-checkout-ajax.php:77
+msgid "Missing required field."
+msgstr ""
+
+#: includes/pickpoint/class-checkout-ajax.php:40
+msgid "Error during address request."
+msgstr ""
+
+#: includes/pickpoint/class-checkout.php:127
+msgid "Select a delivery service"
+msgstr "Выберите службку доставки"
+
+#: includes/pickpoint/class-checkout.php:198
+msgid ""
+"Your session has expired, please update the form and select a new delivery "
+"method"
+msgstr ""
+"Ваш сеанс истек, пожалуйста, обновите страницу и выберите новый способ "
+"доставки"
+
+#: includes/pickpoint/class-checkout.php:584
+#: includes/pickpoint/class-checkout.php:758
+msgid "h."
+msgstr "д."
+
+#: includes/pickpoint/class-checkout.php:588
+#: includes/pickpoint/class-checkout.php:759
+msgid "build."
+msgstr "Строение."
+
+#: includes/pickpoint/class-checkout.php:594
+#: includes/pickpoint/class-checkout.php:760
+msgid "apt./office"
+msgstr "квартира/офис"
+
+#: includes/pickpoint/class-checkout.php:749
+msgid "Monday"
+msgstr "Понедельник"
+
+#: includes/pickpoint/class-checkout.php:750
+msgid "Tuesday"
+msgstr "Вторник"
+
+#: includes/pickpoint/class-checkout.php:751
+msgid "Wednesday"
+msgstr "Среда"
+
+#: includes/pickpoint/class-checkout.php:752
+msgid "Thursday"
+msgstr "Четверг"
+
+#: includes/pickpoint/class-checkout.php:753
+msgid "Friday"
+msgstr "Пятница"
+
+#: includes/pickpoint/class-checkout.php:754
+msgid "Saturday"
+msgstr "Суббота"
+
+#: includes/pickpoint/class-checkout.php:755
+msgid "Sunday"
+msgstr "Воскресенье"
+
+#: includes/pickpoint/class-checkout.php:761
+msgid "rub."
+msgstr "руб."
+
+#: includes/pickpoint/class-checkout.php:762
+msgid "Courier"
+msgstr "Курьер"
+
+#: includes/pickpoint/class-checkout.php:763
+msgid "Pickup"
+msgstr "Самовывоз"
+
+#: includes/pickpoint/class-checkout.php:764
+msgid "Post"
+msgstr "Почта"
+
+#: includes/pickpoint/class-checkout.php:765
+msgid "Estimated Delivery Date"
+msgstr "Предполагаемая дата доставки"
+
+#: includes/pickpoint/class-checkout.php:766
+msgid "Select"
+msgstr "Выбрать"
+
+#: includes/pickpoint/class-checkout.php:767
+msgid "Delivery service"
+msgstr "Сервис доставки"
+
+#: includes/pickpoint/class-checkout.php:768
+msgid "Delivery method"
+msgstr "Способ доставки"
+
+#: includes/pickpoint/class-checkout.php:769
+msgid "Pickup point address"
+msgstr "Адрес пункта доставки"
+
+#: includes/pickpoint/class-checkout.php:770
+msgid "Pickup point schedule"
+msgstr "График работы пункта доставки"
+
+#: includes/pickpoint/class-checkout.php:771
+msgid "Pickup point instruction"
+msgstr "Инструкция пункта доставки"
+
+#: includes/pickpoint/class-checkout.php:772
+msgid "Delivery address"
+msgstr "Адрес доставки"
+
+#: includes/pickpoint/class-checkout.php:773
+msgid "Delivery price"
+msgstr "Стоимость доставки"
+
+#: includes/pickpoint/class-checkout.php:775
+msgid "Try changing your shipping terms."
+msgstr "Попробуйте изменить условия доставки."
+
+#: includes/pickpoint/class-checkout.php:778
+msgid "No matches found"
+msgstr "Совпадения не найдены"
+
+#: includes/pickpoint/class-checkout.php:779
+msgid "Loading failed"
+msgstr "Ошибка загрузки"
+
+#: includes/pickpoint/class-checkout.php:781
+msgid "Please enter 1 or more characters"
+msgstr "Пожалуйста, введите 1 или более символов"
+
+#: includes/pickpoint/class-checkout.php:785
+msgid "Please enter %qty% or more characters"
+msgstr "Пожалуйста, введите %qty% или более символов"
+
+#: includes/pickpoint/class-checkout.php:789
+msgid "Please delete 1 character"
+msgstr "Пожалуйста, удалите 1 символ"
+
+#: includes/pickpoint/class-checkout.php:793
+msgid "Please delete %qty% characters"
+msgstr "Пожалуйста, удалите %qty% символов"
+
+#: includes/pickpoint/class-checkout.php:797
+msgid "You can only select 1 item"
+msgstr "Вы можете выбрать только 1 элемент"
+
+#: includes/pickpoint/class-checkout.php:801
+msgid "You can only select %qty% items"
+msgstr "Вы можете выбрать только %qty% элементов"
+
+#: includes/pickpoint/class-checkout.php:804
+msgid "Loading more results..."
+msgstr "Загрузка результатов..."
+
+#: includes/pickpoint/class-checkout.php:805
+msgid "Searching..."
+msgstr "Поиск..."
+
+#: includes/pickpoint/class-checkout.php:807
+msgid "Where is"
+msgstr "Где находится"
+
+#: includes/pickpoint/class-checkout.php:808
+msgid "Timetable of work"
+msgstr "Расписание работы"
+
+#: includes/pickpoint/class-checkout.php:876
+msgid "Building"
+msgstr "Строение"
+
+#: includes/pickpoint/class-checkout.php:884
+#: includes/pickpoint/class-checkout.php:885
+#: includes/pickpoint/class-checkout.php:897
+msgid "City"
+msgstr "Населенный пункт"
+
+#: includes/pickpoint/class-checkout.php:1037
+msgid "Choose a delivery method"
+msgstr "Выбрать способ доставки"
+
+#: includes/pickpoint/class-order.php:39
+#, fuzzy
+#| msgid "Pickpoint"
+msgid "Pickpoint Order"
+msgstr "Яндекс.Доставка"
+
+#: includes/pickpoint/class-order.php:50
+#: includes/pickpoint/class-order.php:77
+msgid "Delivery service:"
+msgstr "Сервис доставки:"
+
+#: includes/pickpoint/class-order.php:63
+#: includes/pickpoint/class-order.php:85
+msgid "Delivery address:"
+msgstr "Адрес доставки:"
+
+#: includes/pickpoint/class-yandex.php:26
+msgid "Pickpoint extension adds shipping method to Checkout page."
+msgstr ""
+"Плагин Яндекс.Доставка добавляет способ доставки на страницу оформления "
+"заказа."
+
+#: includes/pickpoint/class-yandex.php:100
+#: includes/pickpoint/class-yandex.php:480
+msgid "Inner: "
+msgstr "Внутренний: "
+
+#: includes/pickpoint/class-yandex.php:101
+#: includes/pickpoint/class-yandex.php:466
+msgid "Outer: "
+msgstr "Внешний: "
+
+#: includes/pickpoint/class-yandex.php:102
+#: includes/pickpoint/class-yandex.php:499
+msgid "Package: "
+msgstr "Упаковка: "
+
+#: includes/pickpoint/class-yandex.php:103
+#: includes/pickpoint/class-yandex.php:513
+msgid "Max: "
+msgstr "Максимум "
+
+#: includes/pickpoint/class-yandex.php:138
+msgid "Payment when receipt"
+msgstr "Оплата при получении"
+
+#: includes/pickpoint/class-yandex.php:141
+msgid ""
+"Choose the payment method(s) in which the buyer pays for the product and the "
+"delivery cost upon delivery, both by courier and upon pickup from the order "
+"pick-up Point"
+msgstr ""
+"Выбирите способ(ы) оплаты, при котором покупатель оплачивает товар и "
+"стоимость доставки при доставке, как курьером так и при самовывозе из Пункта "
+"выдачи заказа"
+
+#: includes/pickpoint/class-yandex.php:152
+msgid "A discount on shipping"
+msgstr "Скидка на доставку"
+
+#: includes/pickpoint/class-yandex.php:156
+msgid "Enable"
+msgstr ""
+
+#: includes/pickpoint/class-yandex.php:164
+msgid "Minimum order amount"
+msgstr "Минмальная стоимость заказа"
+
+#: includes/pickpoint/class-yandex.php:168
+msgid "Minimum order amount for which the delivery discount is applied"
+msgstr ""
+"Минимальная сумма заказа, на которую распространяется скидка при доставке"
+
+#: includes/pickpoint/class-yandex.php:174
+msgid "Discount percentage"
+msgstr "Скидка на доставку"
+
+#: includes/pickpoint/class-yandex.php:178
+msgid ""
+"Discount on delivery, specified as a percentage. If you need free shipping - "
+"specify 100"
+msgstr ""
+"Скидка на доставку, указывается в процентах. Если нужна бесплатная доставка "
+"- укажите 100"
+
+#: includes/pickpoint/class-yandex.php:188
+msgid "Immediately"
+msgstr "Любой статус"
+
+#: includes/pickpoint/class-yandex.php:191
+msgid "API Key"
+msgstr "Ключ API"
+
+#: includes/pickpoint/class-yandex.php:198
+msgid "Company ID"
+msgstr "ID компании"
+
+#: includes/pickpoint/class-yandex.php:204
+msgid "Campaign ID can be obtained from list by this link: "
+msgstr "Идентификатор кампании можно получить из списка по этой ссылке: "
+
+#: includes/pickpoint/class-yandex.php:206
+msgid "You need a number after the dash from the \"Shop\" column"
+msgstr "Вам нужен номер после тире из колонки \"магазин\""
+
+#: includes/pickpoint/class-yandex.php:211
+msgid "Shop ID"
+msgstr "ID магазина"
+
+#: includes/pickpoint/class-yandex.php:217
+msgid "To find the Shop ID, see the "
+msgstr "Чтобы найти ID магазина, смотрите "
+
+#: includes/pickpoint/class-yandex.php:223
+msgid "Warehouse ID"
+msgstr "ID склада"
+
+#: includes/pickpoint/class-yandex.php:229
+msgid "To find the Warehouse ID, see the "
+msgstr "Чтобы найти ID склада, смотрите "
+
+#: includes/pickpoint/class-yandex.php:236
+msgid "Cart Pickpoint widget API key"
+msgstr "API ключ корзиночного виджета"
+
+#: includes/pickpoint/class-yandex.php:243
+msgid "API key for the Pickpoint Shopping cart widget"
+msgstr "API ключ для Корзиночного виджета Яндекс Доставки"
+
+#: includes/pickpoint/class-yandex.php:244
+msgid "Get here"
+msgstr "Получить здесь"
+
+#: includes/pickpoint/class-yandex.php:256
+msgid "Status of the order to be sent for delivery"
+msgstr "Статус заказа для отправки в доставку"
+
+#: includes/pickpoint/class-yandex.php:258
+msgid "Order status when order data is sent to the delivery service"
+msgstr "Статус заказа, при котором данные заказа передаются в службу доставки"
+
+#: includes/pickpoint/class-yandex.php:281
+msgid "Declared price of the product (%)"
+msgstr "Объявленная стоимость товара (%)"
+
+#: includes/pickpoint/class-yandex.php:284
+msgid "Declared price of the product as a percentage of the product price"
+msgstr "Объявленная стоимость товара в процентах от стоимости товара"
+
+#: includes/pickpoint/class-yandex.php:295
+msgid "Package settings"
+msgstr "Настройки упаковки"
+
+#: includes/pickpoint/class-yandex.php:304
+msgid "Developers settings"
+msgstr "Настройки разработчика"
+
+#: includes/pickpoint/class-yandex.php:309
+msgid "Debug mode"
+msgstr "Режим отладки"
+
+#: includes/pickpoint/class-yandex.php:311
+msgid "Enable debug mode"
+msgstr "Включить режим отладки"
+
+#: includes/pickpoint/class-yandex.php:313
+msgid "Check to enable non-minified asset files."
+msgstr "Отметьте, чтобы включить не минифицированные файлы."
+
+#: includes/pickpoint/class-yandex.php:320
+msgid "Development mode"
+msgstr "Режим разработки"
+
+#: includes/pickpoint/class-yandex.php:322
+msgid "Enable development mode"
+msgstr "Включить режим разработчика"
+
+#: includes/pickpoint/class-yandex.php:324
+msgid ""
+"Development mode. Creates orders only in the draft status with delayed "
+"delivery for 3 days"
+msgstr ""
+"Режим разработки. Создает заказы только в статусе черновика с отложенной "
+"доставкой на 3 дня"
+
+#: includes/pickpoint/class-yandex.php:401
+#, php-format
+msgid "The entered data is incorrect. Message from Pickpoint: %s"
+msgstr "Введенные данные неверны. Сообщение от Яндекс.Доставки: %s"
+
+#: includes/pickpoint/class-yandex.php:424
+msgid "Packages"
+msgstr "Упаковки"
+
+#: includes/pickpoint/class-yandex.php:431
+msgid "Package"
+msgstr "Упаковка"
+
+#: includes/pickpoint/class-yandex.php:434
+msgid "Length"
+msgstr "Длина"
+
+#: includes/pickpoint/class-yandex.php:437
+msgid "Width"
+msgstr "Ширина"
+
+#: includes/pickpoint/class-yandex.php:440
+msgid "Height"
+msgstr "Высота"
+
+#: includes/pickpoint/class-yandex.php:443
+msgid "Weight"
+msgstr "Вес"
+
+#: includes/pickpoint/class-yandex.php:540
+msgid "Add package"
+msgstr "Добавить паковку"
+
+#: includes/pickpoint/class-yandex.php:547
+msgid ""
+"These settings are used if the product does not have dimensions and weight "
+"set in the product Data-delivery section"
+msgstr ""
+
+#: views/checkout-yandex-delivery.php:130
+msgid "Other options"
+msgstr ""
+
+#: views/checkout-yandex-delivery.php:132
+msgid "Selected delivery option"
+msgstr ""
+
+#: yandex-delivery.php:46
+msgid "Woocommerce Pickpoint Delivery"
+msgstr "Woocommerce Яндекс Доставка"
+
+#~ msgid ""
+#~ "If the buyer has chosen one of the specified payment methods, the full "
+#~ "order price + delivery cost will be sent to The Pickpoint merchant profile "
+#~ "(the customer will have to pay this amount upon receipt)"
+#~ msgstr ""
+#~ "Если покупатель выбрал один из указанных способов оплаты, то полная "
+#~ "стоимость заказа + стоимость доставки будет отправлена в профиль продавца "
+#~ "Яндекса (клиент должен будет оплатить эту сумму при получении)"
+
+#~ msgid "Enable discount"
+#~ msgstr "Скидка включена"
+
+#~ msgid ""
+#~ "If enabled, the specified discount will be applied for the specified "
+#~ "delivery amount or higher"
+#~ msgstr ""
+#~ "Если этот параметр включен, указанная скидка будет применяться для "
+#~ "указанной суммы доставки или выше"
+
+#~ msgid "Submit Key"
+#~ msgstr "Отправить"
+
+#~ msgid "Delivery date"
+#~ msgstr "Дата доставки"
+
+#~ msgid "Show order delivery date on checkout page"
+#~ msgstr "Показать дату доставки заказа на странице оформления заказа"
+
+#~ msgid "Packaging calculation uses unit settings from 'Products' tab."
+#~ msgstr ""
+#~ "Расчет упаковки использует настройки единиц измерения на вкладке "
+#~ "\"продукты\"."

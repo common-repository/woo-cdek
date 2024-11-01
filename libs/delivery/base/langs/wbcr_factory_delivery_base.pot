@@ -1,0 +1,177 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Delivery base\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-01 08:43+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.6; wp-5.5.3"
+
+#: class-delivery.php:290
+msgid "A discount on shipping"
+msgstr ""
+
+#: class-delivery.php:492
+msgid "Add package"
+msgstr ""
+
+#: class-delivery.php:358
+msgid "Check to enable non-minified asset files."
+msgstr ""
+
+#: class-delivery.php:285
+msgid ""
+"Choose the payment method(s) in which the buyer pays for the product and the "
+"delivery cost upon delivery, both by courier and upon pickup from the order "
+"pick-up Point"
+msgstr ""
+
+#: class-delivery.php:355
+msgid "Debug mode"
+msgstr ""
+
+#: class-delivery.php:339
+msgid "Declared price of the product (%)"
+msgstr ""
+
+#: class-delivery.php:341
+msgid ""
+"Declared price of the product as a percentage of the product price. Minimum "
+"1 rouble"
+msgstr ""
+
+#. Name of the plugin
+msgid "Delivery base"
+msgstr ""
+
+#: class-delivery.php:350
+msgid "Developers settings"
+msgstr ""
+
+#: class-delivery.php:363
+msgid "Development mode"
+msgstr ""
+
+#: class-delivery.php:366
+msgid ""
+"Development mode. Creates orders only in the draft status with delayed "
+"delivery for 3 days"
+msgstr ""
+
+#: class-delivery.php:314
+msgid ""
+"Discount on delivery, specified as a percentage. If you need free shipping - "
+"specify 100"
+msgstr ""
+
+#: class-delivery.php:310
+msgid "Discount percentage"
+msgstr ""
+
+#: class-delivery.php:294
+msgid "Enable"
+msgstr ""
+
+#: class-delivery.php:357
+msgid "Enable debug mode"
+msgstr ""
+
+#: class-delivery.php:365
+msgid "Enable development mode"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Enables the WordPress classic editor and the old-style Edit Post screen with "
+"TinyMCE, Meta Boxes, etc. Supports the older plugins that extend this screen."
+msgstr ""
+
+#: class-delivery.php:396
+msgid "Height"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://github.com/WordPress/classic-editor/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/classic-editor/"
+msgstr ""
+
+#: class-delivery.php:325
+msgid "Immediately"
+msgstr ""
+
+#: class-delivery.php:436
+msgid "Inner: "
+msgstr ""
+
+#: class-delivery.php:390
+msgid "Length"
+msgstr ""
+
+#: class-delivery.php:467
+msgid "Max: "
+msgstr ""
+
+#: class-delivery.php:300
+msgid "Minimum order amount"
+msgstr ""
+
+#: class-delivery.php:304
+msgid "Minimum order amount for which the delivery discount is applied"
+msgstr ""
+
+#: class-delivery.php:331
+msgid "Order status when order data is sent to the delivery service"
+msgstr ""
+
+#: class-delivery.php:422
+msgid "Outer: "
+msgstr ""
+
+#: class-delivery.php:387
+msgid "Package"
+msgstr ""
+
+#: class-delivery.php:455
+msgid "Package: "
+msgstr ""
+
+#: class-delivery.php:380
+msgid "Packages"
+msgstr ""
+
+#: class-delivery.php:283
+msgid "Payment when receipt"
+msgstr ""
+
+#: class-delivery.php:329
+msgid "Status of the order to be sent for delivery"
+msgstr ""
+
+#: class-delivery.php:497
+msgid ""
+"These settings are used if the product does not have dimensions and weight "
+"set in the product Data-delivery section"
+msgstr ""
+
+#: class-delivery.php:399
+msgid "Weight"
+msgstr ""
+
+#: class-delivery.php:393
+msgid "Width"
+msgstr ""
+
+#. Author of the plugin
+msgid "WordPress Contributors"
+msgstr ""

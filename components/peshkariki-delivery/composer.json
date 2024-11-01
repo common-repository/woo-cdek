@@ -1,0 +1,19 @@
+{
+    "name": "wbcr/wp-plugin-peshkariki-delivery",
+    "homepage": "https://cmshippers.com",
+    "keywords": ["delivery", "woocommerce", "peshkariki"],
+    "version": "1.0.0",
+    "description": "This is a sample plugin that implements additional delivery functions for the Woocommerce store",
+    "type": "project",
+    "license": "GNU GPLv3",
+    "authors": [
+        {
+            "name": "CreativeMotion",
+            "email": "support@cmshippers.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "dvdoug/boxpacker": "2.6.0"
+    }
+}

@@ -1,0 +1,216 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woocommerce Zaberi Tovar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-20 10:17+0000\n"
+"PO-Revision-Date: 2020-12-01 06:30+0000\n"
+"Last-Translator: \n"
+"Language-Team: Русский\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.6; wp-5.5.3"
+
+#. Name of the plugin
+#: zaberi-tovar-delivery.php:46
+msgid "Woocommerce Zaberi Tovar"
+msgstr "Woocommerce Доставка Забери товар"
+
+#: admin/activation.php:28
+msgid "The plugin requires Woocommerce"
+msgstr "Плагину необходим Woocommerce"
+
+#: admin/activation.php:32
+msgid "WC_Shipping_Method class not found"
+msgstr "Класс WC_Shipping_Method не найден"
+
+#: includes/class-plugin.php:176
+msgid "License"
+msgstr "Лиценизия"
+
+#: includes/class-plugin.php:188
+msgid "Documentation"
+msgstr "Документация"
+
+#: views/checkout.php:34
+msgid "Select pickup point"
+msgstr "Выберите пункт выдачи"
+
+#: admin/pages/class-pages-license.php:95
+#: includes/ZaberiTovar/class-zaberi-tovar.php:20
+#: includes/ZaberiTovar/class-zaberi-tovar.php:21
+#: includes/ZaberiTovar/class-zaberi-tovar.php:126
+msgid "Zaberi Tovar"
+msgstr "Забери Товар"
+
+#: admin/pages/class-pages-license.php:96
+msgid "License of Zaberi Tovar Delivery Plugin"
+msgstr "Лицензия плагина Доставка Забери товар "
+
+#: admin/pages/class-pages-license.php:229
+#, php-format
+msgid ""
+"<a href=\"%s\" target=\"_blank\" rel=\"noopener\">Lean more</a> about the "
+"premium version and get the license key to activate it now!"
+msgstr ""
+"<a href=\"%s\" target=\"_blank\" rel=\"noopener\">Узнайте больше</a> о "
+"премиум-версии и получите лицензионный ключ для ее активации прямо сейчас!"
+
+#: admin/pages/class-pages-license.php:233
+#, php-format
+msgid ""
+"Can’t find your key? Go to <a href=\"%s\" target=\"_blank\" rel=\"noopener\">"
+"this page</a> and login using the e-mail address associated with your "
+"purchase."
+msgstr ""
+"Не можете найти лицензионный ключ? Перейдите на <a href=\"%s\" "
+"target=\"_blank\" rel=\"noopener\">эту страницу</a> и авторизуйтесь с "
+"помощью e-mail, который вы указывали при покупке"
+
+#: admin/pages/class-pages-license.php:246
+#, php-format
+msgid "Activate %s"
+msgstr "Активировать %s"
+
+#: admin/pages/class-pages-license.php:263
+msgid "Buy Premium"
+msgstr "Купить премиум"
+
+#: admin/pages/class-pages-license.php:273
+msgid "Delete Key"
+msgstr "Удалить ключ"
+
+#: admin/pages/class-pages-license.php:277
+msgid "Synchronization"
+msgstr "Синхронизация"
+
+#: admin/pages/class-pages-license.php:296
+msgid ""
+"Сommercial license, only to the premium add-on to this free plugin. You "
+"cannot distribute or modify the premium add-on. But free plugin is a GPLv3 "
+"compatible license allowing you to change and use this version of the plugin "
+"for free."
+msgstr ""
+"Сommercial license, only to the premium add-on to this free plugin. You "
+"cannot distribute or modify the premium add-on. But free plugin is a GPLv3 "
+"compatible license allowing you to change and use this version of the plugin "
+"for free."
+
+#: admin/pages/class-pages-license.php:300
+msgid ""
+"You use a paid subscription for the plugin updates. In case you don’t want "
+"to receive paid updates, please, click <a data-action=\"unsubscribe\" "
+"class=\"wdzt-control-btn\" href=\"#\">cancel subscription</a>"
+msgstr ""
+
+#: admin/pages/class-pages-license.php:306
+msgid ""
+"Your license has expired, please extend the license to get updates and "
+"support."
+msgstr ""
+
+#: admin/pages/class-pages-license.php:314
+msgid "plan"
+msgstr "тариф"
+
+#: admin/pages/class-pages-license.php:320
+msgid "of"
+msgstr "из"
+
+#: admin/pages/class-pages-license.php:322
+msgid "active sites"
+msgstr "сайтов"
+
+#: admin/pages/class-pages-license.php:332
+msgid "EXPIRED!"
+msgstr ""
+
+#: admin/pages/class-pages-license.php:333
+msgid "please update the key"
+msgstr ""
+
+#: admin/pages/class-pages-license.php:343
+msgid "day(s)"
+msgstr ""
+
+#: admin/pages/class-pages-license.php:345
+msgid "remained"
+msgstr ""
+
+#: admin/pages/class-pages-license.php:357
+msgid "Have a key to activate the premium version? Paste it here:"
+msgstr ""
+
+#: admin/pages/class-pages-license.php:359
+msgid "Have a key to activate the plugin? Paste it here:"
+msgstr ""
+
+#: admin/pages/class-pages-license.php:364
+msgid "Submit Key"
+msgstr ""
+
+#: includes/3rd-party/class-delivery-pack-plugin.php:174
+#: includes/3rd-party/class-delivery-pack-plugin.php:200
+msgid "Zaberi Tovar Delivery"
+msgstr "Доставка Забери Товар"
+
+#: includes/3rd-party/class-delivery-pack-plugin.php:177
+msgid "The plugin does not work and requires configuration, please go to"
+msgstr "Плагин не работает и требует настройки, пожалуйста перейдите в"
+
+#: includes/3rd-party/class-delivery-pack-plugin.php:180
+msgid "plugin settings"
+msgstr "настройки плагина"
+
+#: includes/3rd-party/class-delivery-pack-plugin.php:201
+msgid "<strong>ATTENTION!</strong> The plugin works in developer mode"
+msgstr "<strong>ВНИМАНИЕ!</strong> Плагин работает в режиме разработчика"
+
+#: includes/ZaberiTovar/class-zaberi-tovar.php:22
+msgid "Zaberi Tovar extension adds shipping method to Checkout page."
+msgstr ""
+"Плагин добавляет способ доставки Забери Товар на страницу оформления заказа."
+
+#: includes/ZaberiTovar/class-zaberi-tovar.php:61
+msgid "Zaberi Tovar Login"
+msgstr "Логин API Забери Товар"
+
+#: includes/ZaberiTovar/class-zaberi-tovar.php:67
+msgid "API ID"
+msgstr "API ID"
+
+#: includes/ZaberiTovar/class-zaberi-tovar.php:69
+msgid "Issued when requesting support"
+msgstr "Выдается по запросу в поддержку"
+
+#: includes/ZaberiTovar/class-zaberi-tovar.php:73
+msgid "Widget API Key"
+msgstr "API ключ виджета"
+
+#: includes/ZaberiTovar/class-zaberi-tovar.php:111
+msgid "ПВЗ"
+msgstr "ПВЗ"
+
+#. Description of the plugin
+msgid ""
+"This is a sample plugin that implements additional delivery functions for "
+"the Woocommerce store."
+msgstr ""
+"This is a sample plugin that implements additional delivery functions for "
+"the Woocommerce store."
+
+#. URI of the plugin
+msgid "https://cmshippers.com/zaberi-tavar/"
+msgstr "https://cmshippers.com/zaberi-tavar/"
+
+#. Author of the plugin
+msgid "CreativeMotion <info@cm-wp.com>"
+msgstr "CreativeMotion <info@cm-wp.com>"
+
+#. Author URI of the plugin
+msgid "https://cmshippers.com"
+msgstr "https://cmshippers.com"

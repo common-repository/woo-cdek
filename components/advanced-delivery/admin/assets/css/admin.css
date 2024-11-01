@@ -1,0 +1,14 @@
+.wdad-settings
+{
+	border-collapse: collapse;
+	margin-top: 0.5em;
+	width: 100%;
+	clear: both;
+	text-align: left;
+}
+
+.wdad-settings a
+{
+	font-size: 16px !important;
+
+}

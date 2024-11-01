@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woocommerce Shipping Details\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-20 07:45+0000\n"
+"PO-Revision-Date: 2020-11-20 07:48+0000\n"
+"Last-Translator: \n"
+"Language-Team: Русский\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.4; wp-5.5.3"
+
+#: admin/pages/class-pages-license.php:229
+#, php-format
+msgid ""
+"<a href=\"%s\" target=\"_blank\" rel=\"noopener\">Lean more</a> about the "
+"premium version and get the license key to activate it now!"
+msgstr ""
+
+#: admin/pages/class-pages-license.php:246
+#, php-format
+msgid "Activate %s"
+msgstr ""
+
+#: admin/pages/class-pages-license.php:322
+msgid "active sites"
+msgstr ""
+
+#. Description of the plugin
+msgid "Added Shipping methods to your Woocommerce store"
+msgstr ""
+
+#: admin/pages/class-pages-license.php:263
+msgid "Buy Premium"
+msgstr ""
+
+#: admin/pages/class-pages-license.php:233
+#, php-format
+msgid ""
+"Can’t find your key? Go to <a href=\"%s\" target=\"_blank\" rel=\"noopener\">"
+"this page</a> and login using the e-mail address associated with your "
+"purchase."
+msgstr ""
+
+#. Author of the plugin
+msgid "Creative Motion"
+msgstr "Creative Motion"
+
+#: admin/pages/class-pages-license.php:343
+msgid "day(s)"
+msgstr ""
+
+#: admin/pages/class-pages-license.php:273
+msgid "Delete Key"
+msgstr ""
+
+#: woo-cdek.php:35
+msgid "Delivery pack"
+msgstr "Woocommerce Доставка"
+
+#: admin/pages/class-pages-license.php:332
+msgid "EXPIRED!"
+msgstr ""
+
+#: admin/pages/class-pages-license.php:359
+msgid "Have a key to activate the plugin? Paste it here:"
+msgstr ""
+
+#: admin/pages/class-pages-license.php:357
+msgid "Have a key to activate the premium version? Paste it here:"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://cm-wp.com/"
+msgstr "https://cm-wp.com/"
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/woo-cdek/"
+msgstr "https://ru.wordpress.org/plugins/woo-cdek/"
+
+#: admin/pages/class-pages-license.php:96
+msgid "License of Woocommerce Shipping Details Plugin"
+msgstr "Лицензия плагина Woocommerce Shipping Details"
+
+#: admin/pages/class-pages-license.php:320
+msgid "of"
+msgstr ""
+
+#: admin/pages/class-pages-license.php:314
+msgid "plan"
+msgstr ""
+
+#: admin/pages/class-pages-license.php:333
+msgid "please update the key"
+msgstr ""
+
+#: admin/pages/class-pages-license.php:345
+msgid "remained"
+msgstr ""
+
+#: admin/pages/class-pages-license.php:364
+msgid "Submit Key"
+msgstr ""
+
+#: admin/pages/class-pages-license.php:277
+msgid "Synchronization"
+msgstr ""
+
+#. Name of the plugin
+#: admin/pages/class-pages-license.php:95
+msgid "Woocommerce Shipping Details"
+msgstr "Woocommerce Shipping Details"
+
+#: admin/pages/class-pages-license.php:300
+msgid ""
+"You use a paid subscription for the plugin updates. In case you don’t want "
+"to receive paid updates, please, click <a data-action=\"unsubscribe\" "
+"class=\"wdpc-control-btn\" href=\"#\">cancel subscription</a>"
+msgstr ""
+
+#: admin/pages/class-pages-license.php:306
+msgid ""
+"Your license has expired, please extend the license to get updates and "
+"support."
+msgstr ""
+
+#: admin/pages/class-pages-license.php:296
+msgid ""
+"Сommercial license, only to the premium add-on to this free plugin. You "
+"cannot distribute or modify the premium add-on. But free plugin is a GPLv3 "
+"compatible license allowing you to change and use this version of the plugin "
+"for free."
+msgstr ""
